@@ -1,4 +1,4 @@
-# Fluent-Compact-Modern
+# Fluent-Compact-Modern-Dark
 Contains an XML file used for importing into OpenShell. Tried to match Startallback as best I could. 
 
 ### Requirements ###
